@@ -1,0 +1,68 @@
+[
+    { 
+        "conditions": {
+            "type": "cellphone"            
+        },
+        "fieldSets": {
+            "cellproducer": "Cell producer not specified",
+            "sim": "Sim cards not cpecified",
+            "celldisplay": "Cell display not specified"
+        }
+    },
+    { 
+        "conditions": {
+            "type": "smartphone"            
+        },
+        "fieldSets": {
+            "smartphoneproducer": "Smartphone producer not specified",
+            "smartphonedisplay": "Smartphone display not specified",
+            "os": "OS not specified",
+            "cores": "Number of cores not specified",
+            "sim": "Sim cards not cpecified"
+        }
+    },    
+    { 
+        "conditions": {
+            "type": "tablet"            
+        },
+        "fieldSets": {
+            "tabletproducer": "Tablet producer not specified",
+            "tabletdisplay": "Tablet display not specified",
+            "tabletos": "OS not specified"
+        }
+    },    
+    { 
+        "conditions": {
+            "type": "ebook"            
+        },
+        "fieldSets":  {
+            "ebookproducer": "EBook producer not specified",
+            "ebookdisplay": "EBook display not specified",
+            "ebookos": "OS not specified",
+            "builtinmemory": "Built-in memory not specified"
+        }
+    },    
+    {
+        "conditions": {
+            "type": "notebook"           
+        },
+        "fieldSets": {
+            "notebookproducer": "Notebook producer not specified",
+            "notebookdisplay": "Notebook display not specified",
+            "cpufrequency": "CPU Frequency not specified",
+            "storagecapacity": "Storage capacity not specified"
+        }
+    },    
+    { 
+        "conditions": {
+            "type": "monoblock"            
+        },
+        "fieldSets": {
+            "monoblockproducer": "Monoblock producer not specified",
+            "moboblockdisplay": "Monoblock display not specified",
+            "monocpufrequency": "CPU Frequency not specified",
+            "monostoragecapacity": "Storage capacity not specified",
+            "monoram": "RAM not specified"
+        }
+    }    
+]

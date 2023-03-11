@@ -1,0 +1,317 @@
+[
+    {
+        "id": "0c5b42a828743332",
+        "category": "phones",
+        "options": ["cellphone", "finepower", "2sim", "1.7inch"],
+        "title": "Cell phone FinePower S171",
+        "description": "The FinePower S171 cell phone is used for making calls and sending messages. For dialing, there is a convenient keypad with bright symbols, which is optimal for use by older people. Current information is displayed on a 1.77-inch display. The color screen has a resolution of 128x160 pixels and transmits 64,000 colors. The case is made of strong and durable plastic, resistant to scratches and chips."
+    },
+    {
+        "id": "5f13231bede1ed20",
+        "category": "phones",
+        "options": ["cellphone", "bq", "2sim", "1.7inch"],
+        "title": "Cell phone BQ 1853 Life",
+        "description": "Cell phone BQ 1853 Life is made in a compact red body and is equipped with everything you need for everyday mobile communication. The device has a 1.77-inch color display. The control panel also has an SOS shortcut button. The mobile device supports two SIM cards and a memory card. The flashlight brightly illuminates the space in the dark. For entertainment, MP3 player, FM radio, Organizer are offered. The 600 mAh battery guarantees a long autonomy of the BQ 1853 Life."
+    },
+    {
+        "id": "4f6375ab3954ed20",
+        "category": "phones",
+        "options": ["cellphone", "maxvi", "2sim", "1.7inch"],
+        "title": "Cell phone Maxvi B100",
+        "description": "Cell phone Maxvi B100 is made in a compact case monoblock form factor. Thanks to the 1.77-inch color display, oversized buttons and SOS key, this model will become a reliable communication tool for the elderly user. On the back side there is a shortcut button and a camera. Maxvi B100 has dual SIM functionality. There is also a slot for a memory card with which you can store music and multimedia files. Of the features, a flashlight, FM and MP3 players, and a Voice Recorder are noted. A 600 mAh battery is responsible for the long battery life of the phone."
+    },
+    {
+        "id": "d5863466e59a2ff4",
+        "category": "phones",
+        "options": ["cellphone", "bq", "2sim", "2.8inch"],
+        "title": "Cell phone BQ 2820 Step XL",
+        "description": "BQ 2820 Step XL+ is a feature-packed feature phone. The phone is made in a lightweight ergonomic case, has a comfortable keypad and a bright 2.8” color display with a resolution of 240*320. The BQ 2820 Step XL+ mobile phone operates in GSM 850/900/1800/1900 MHz communication standards, supports the installation of 2 SIM cards and has a slot for a MicroSD memory card up to 32GB, and is also equipped with Bluetooth 2.1, FM radio and a flashlight."
+    },    
+    {
+        "id": "3109031d4dbced20",
+        "category": "phones",
+        "options": ["cellphone", "philips", "2sim", "1.7inch"],
+        "title": "Cell phone Philips Xenium E2101",
+        "description": "The Philips Xenium E2101 cellular phone is built in an all-in-one form factor and has everything you need for everyday mobile communication. This model has slots for installing two SIM cards and a memory expansion card. The 1.77-inch color display shows a clear and bright picture, and below the display there are buttons with informative symbols and symbols. The Philips Xenium E2101 phone has a Bluetooth module, MP3 player, FM radio and Organizer with pre-installed applications. The 1000 mAh battery guarantees a long battery life - up to 10 hours of talk time."
+    },
+    {
+        "id": "6fdec01ce0c93332",
+        "category": "phones",
+        "options": ["cellphone", "nokia", "1sim", "1.7inch"],
+        "title": "Cell phone Nokia 105SS",
+        "description": "The Nokia 105SS (2019) cell phone is designed in a bright pink case in the form of a monoblock. The design of the model assumes the presence of a physical keyboard with large keys, which will be very convenient for you to press when entering data. The 1.77 display is based on TN technology, which allows it to reach a resolution of 128x160: despite the small screen size, the image on it is clear and rich. Nokia 105SS (2019) has a minimal set of functions, thanks to which the battery of the model retains its charge for a long time: the battery capacity corresponds to 800 mAh. You can listen to FM radio, play MP3 music. Digital information is processed using the Series 30+ operating system. Additionally, the phone is equipped with a flashlight that will illuminate the road in the dark."
+    },
+    {
+        "id": "c2637d8cf34bd763",
+        "category": "phones",
+        "options": ["cellphone", "nokia", "2sim", "1.8inch"],
+        "title": "Cell phone Nokia 110DS 4G",
+        "description": "The Nokia 110DS 4G cell phone is a flashy phone with a basic set of features. It is made in a plastic case in the form of a monoblock and contains a physical keyboard, which makes it familiar to older people. Under its battery on the back of the case there are two slots for SIM-cards, which allows you to cover more people in comfortable communication. To install microSD cards, you can use the corresponding slot, which is also located under the battery."
+    },
+    {
+        "id": "86d2326f59eb1b80",
+        "category": "phones",
+        "options": ["cellphone", "panasonic", "1sim", "2.4inch"],
+        "title": "Cell phone Panasonic KX-TU456",
+        "description": "Cell phone Panasonic KX-TU456 red color is made in a clamshell form factor, convenient and pleasant. The body of the device is protected according to the military standard MIL-STD-810G. Its 2.4-inch screen displays color images with a resolution of up to 320x240 pixels. The external display shows alerts for calls, messages and battery level. You can take the necessary photos and videos with a 0.3-megapixel camera. An alarm clock and a calendar complete the possibilities of the phone, and its address book is designed for 200 numbers. So that the owner does not get bored, the phone was equipped with an MP3 and video player. Cell phone Panasonic KX-TU456 can work with 1 SIM-card. The fact that this device can be used together with a hearing aid deserves special attention."
+    },
+    {
+        "id": "e95d4eec514bd667",
+        "category": "phones",
+        "options": ["smartphone", "samsung", "1sim", "6.5inch", "android", "8cores"],
+        "title": "Smartphone Samsung Galaxy A52",
+        "description": "Enjoy detailed images on a Super AMOLED 6.5'' Infinity-O screen with FHD+ resolution and up to 800 nits of brightness, which is perfectly visible even in bright daylight. The Eye Comfort Shield reduces blue light, while ultra-smooth scrolling ensures a comfortable viewing experience while gaming or scrolling on the screen. The Samsung Galaxy A52's four AI cameras take photo quality to the next level. Take ultra-clear shots with the 64 megapixel main camera with optical stabilization. Expand your camera's field of view with the Ultra Wide Angle Camera."
+    },
+    {
+        "id": "2e184c4e6504922a",
+        "category": "phones",
+        "options": ["smartphone", "samsung", "2sim", "6.5inch", "android", "8cores"],
+        "title": "Smartphone Samsung Galaxy M12",
+        "description": "Explore a world of content and entertainment with the Samsung Galaxy M12. With a bright and large 6.5 90Hz HD+ V-notch screen, you'll get an incredibly bright and clear picture. More bright and memorable moments thanks to the main camera of 48 megapixels. Capture landscapes with the ultra-wide camera, capture portrait shots with background blur with the depth-sensing camera, or zoom in on the finest details with the macro camera. Like human vision, the 5MP ultra wide-angle lens lets you shoot with a 123-degree field of view, adding more perspective to your photos."
+    },
+    {
+        "id": "5ed2d08fc043ed20",
+        "category": "phones",
+        "options": ["smartphone", "samsung", "2sim", "6.7inch", "android", "8cores"],
+        "title": "Smartphone Samsung Galaxy A73",
+        "description": "The Samsung Galaxy A73 5G smartphone, which is a real multimedia center, will open up additional opportunities for you when using a mobile communication tool. All thanks to the powerful Snapdragon 778G 5G octa-core processor, featuring the highest processing power to run flawlessly with demanding games or heavy mobile applications. Support for the RAM Plus function will allow you to use virtual RAM for speed in multitasking. With an optimal 128 GB of built-in memory and support for up to 1 TB memory cards, all multimedia content will always be with you."
+    },
+    {
+        "id": "d5c51335c1e9ed20",
+        "category": "phones",
+        "options": ["smartphone", "apple", "1sim", "6.7inch", "ios", "6cores"],
+        "title": "Smartphone Apple iPhone 13 Pro Max",
+        "description": "The realization of the user's creative potential, the fulfillment of tasks of any complexity and unlimited opportunities for a comfortable pastime will give its owner the Apple iPhone 13 Pro Max smartphone. Its sky-colored metal and glass body is equipped with a 6-core Apple A15 Bionic processor, which will provide incredible performance when downloading programs and using multiple applications at the same time. Clear and realistic images are displayed on a large 6.7-inch OLED display."
+    },
+    {
+        "id": "90db713efc37ed20",
+        "category": "phones",
+        "options": ["smartphone", "apple", "2sim", "6.1inch", "ios", "6cores"],
+        "title": "Smartphone Apple iPhone 13",
+        "description": "iPhone 13. The most advanced dual camera system on iPhone. The Cinema Effect mode turns the video into a real movie. Super fast A15 Bionic chip. Tireless battery. Rugged housing. And an even brighter Super Retina XDR display. The new ultra-wide-angle camera sees more detail in the dark areas of shots. The new wide-angle camera captures 47% more light for better photos and videos. New sensor-shift OIS ensures crisp footage even in shaky positions."
+    },
+    {
+        "id": "27fefee93012ed20",
+        "category": "phones",
+        "options": ["smartphone", "apple", "2sim", "6.1inch", "ios", "6cores"],
+        "title": "Smartphone Apple iPhone 14",
+        "description": "Apple iPhone 14 is based on the A15 Bionic single-chip system. The version with 5-core GPU is used. The model received a 6.1-inch OLED panel. Peak brightness is 1200 nits. The bangs with the sensors of the facial scanning system and the selfie camera have been preserved. The camera itself is still 12 megapixels, but is able to capture 38% more light than the iPhone 13. The rear camera is dual - the main sensor is 12 megapixels and wide-angle 12 megapixels. Of the innovations - Action mode with fast stabilization and support for Photonic Engine technology (improves photos)."
+    },
+    {
+        "id": "0c00eae5aa75ed20",
+        "category": "phones",
+        "options": ["smartphone", "xiaomi", "2sim", "6.7inch", "android", "8cores"],
+        "title": "Smartphone Xiaomi Redmi 10C",
+        "description": "The Xiaomi Redmi 10C 128 GB smartphone is a mid-range model that has a body with a textured finish and very powerful features for various purposes. The smartphone has a 6.71-inch frameless display based on an IPS HD + panel. There is a small notch at the top that houses the 5MP camera module for video calls and selfies. The heart of the hardware platform is the Snapdragon 680 processor, which works in conjunction with 4 GB of RAM to achieve high system performance and speed. The mobile device supports two SIM cards and wireless interfaces."
+    },
+    {
+        "id": "0b42d75422b4ed20",
+        "category": "phones",
+        "options": ["smartphone", "xiaomi", "2sim", "6.7inch", "android", "8cores"],
+        "title": "Smartphone Xiaomi 12T Pro",
+        "description": "The main feature of the Xiaomi 12T Pro is the 200MP camera. The smartphone received a 6.67-inch flat AMOLED screen with a resolution of 2712x1220 pixels and a refresh rate of 120 Hz, a Qualcomm Snapdragon 8+ Gen1 processor, 12 GB of LPDD5 RAM, a 256 GB UFS storage, a 5000 mAh battery with support for fast 120- watt charging, Bluetooth 5.2, Wi-Fi 6, NFC and stereo speakers. Thanks to the mega-resolution, Xiaomi ProCut 200MP tool allows you to crop and modify the original photo without losing quality. The result is up to five different detailed shots, each with the perfect composition."
+    },
+    {
+        "id": "09ac27b16307ed20",
+        "category": "gadgets",
+        "options": ["tablet", "samsung", "10.5inch", "android", "androidos"],
+        "title": "Tablet Samsung Galaxy Tab A8",
+        "description": "10.5ʺ The gray Samsung Galaxy Tab A8 Wi-Fi tablet is equipped with a fairly powerful 8-core processor and 3 GB of RAM, which ensures its high performance. You can quickly switch between multiple open programs or browser tabs. With a clean Android 12.x interface and support for Google services, the tablet is suitable for both entertainment and study. The memory of the device is designed to store 32 GB of information. If necessary, you can install a microSD memory card up to 1024 GB. The screen of the Samsung Galaxy Tab A8 Wi-Fi tablet based on the PLS matrix provides a fairly bright and detailed picture."
+    },
+    {
+        "id": "14661fee92bdd050",
+        "category": "gadgets",
+        "options": ["tablet", "samsung", "11inch", "android", "androidos"],
+        "title": "Tablet Samsung Galaxy Tab S8",
+        "description": "The Samsung Galaxy Tab S8 5G tablet in a compact design with dimensions of 253.8x165.3x6.3 mm will be your indispensable companion, providing access to a variety of entertainment. The device became the owner of four speakers with support for Dolby Atmos to reproduce realistic sound of a cinematic level. The design of the model has a fingerprint scanner so that the information stored on it is inaccessible to outsiders. The ease of use of the model is facilitated by the S Pen stylus, for storage and recharging of which there is a magnetic slot in the case."
+    },
+    {
+        "id": "9c100d5b3943ed20",
+        "category": "gadgets",
+        "options": ["tablet", "huawei", "10.1inch", "android", "androidos"],
+        "title": "Tablet HUAWEI MatePad T 10s",
+        "description": "The HUAWEI MatePad T 10s tablet combines stylish design, a wide range of functions and all the necessary communication tools at the same time. It has a 10.1-inch display, which is based on a high-quality IPS FullHD matrix with support for multi-touch control. Fast application performance is achieved thanks to the Kirin 710A processor with 8 processing cores and 4 GB of RAM. The tablet has cameras with 5 megapixel and 2 megapixel modules. Connectivity is represented by Wi-Fi and Bluetooth modules, a USB Type-C port, and a 3.5 mm audio jack. There is also a slot for a memory card and a GPS navigation system. One charge of the 5100 mAh battery is enough for 10 hours of battery life of HUAWEI MatePad T 10s in video mode."
+    },
+    {
+        "id": "2c6d885e4e88ed20",
+        "category": "gadgets",
+        "options": ["tablet", "huawei", "10.4inch", "android", "harmonyos"],
+        "title": "HUAWEI MatePad SE LTE Tablet",
+        "description": "HUAWEI MatePad SE received a 10.4-inch IPS screen with a resolution of 2000 × 1200 pixels and an aspect ratio of 15:9. The screen has been certified by TÜV Rheinland Low Blue Light. As an operating system, the tablet uses the proprietary HarmonyOS 3. The device is powered by a Qualcomm Snapdragon 680 processor. MatePad SE 10.4 comes with 3 GB of RAM and 32 GB of internal memory. There is also a slot for microSD memory cards. A 5100 mAh battery is responsible for power, which supports 10 W charging. The MatePad SE 10.4 has a 2-megapixel front camera (f/2.2 aperture, fixed focus) and a 5-megapixel rear camera (f/2.2 aperture, autofocus)."
+    },
+    {
+        "id": "944882af8305ed20",
+        "category": "gadgets",
+        "options": ["tablet", "huawei", "10.4inch", "android", "harmonyos"],
+        "title": "Tablet HUAWEI MatePad (2022)",
+        "description": "A real find for the most demanding users will be the HUAWEI MatePad tablet with 64 GB of built-in memory. The 10.4-inch display shows detailed and high-contrast images at a maximum resolution of 2000x1200 pixels, which creates an immersive effect, allowing you to see even the smallest details. Thanks to the TÜV Rheinland certification, your eyes are reliably protected from negative radiation and flicker. The HUAWEI MatePad tablet will not disappoint with the quality of the reproduced sounds, because the manufacturer has taken care of the presence of 4 powerful speakers. Inside the metal case is hidden worthy of attention stuffing, consisting of an 8-core Kirin 710A processor."
+    },
+    {
+        "id": "9f3901a0dbebed20",
+        "category": "gadgets",
+        "options": ["tablet", "apple", "10.9inch", "ios", "ipados"],
+        "title": "Apple iPad Air tablet (2022)",
+        "description": "Gorgeous 10.9\" Liquid Retina display. The innovative Apple M1 chip delivers faster performance, turning iPad Air into a powerful creative and mobile gaming tool. Touch ID, advanced cameras, ultra-fast wireless, USB-C, and support for Magic Keyboard and Apple Pencil (2nd generation). The large screen allows you to comfortably edit documents, view mail, communicate on social networks. Apple iPad Air is the center of exciting entertainment and an effective tool for work."
+    },
+    {
+        "id": "fe80e5eb5685ed20",
+        "category": "gadgets",
+        "options": ["tablet", "apple", "11inch", "ios", "ipados"],
+        "title": "Apple iPad Pro (2022)",
+        "description": "Amazing performance. Incredibly advanced display. Ultra-fast wireless. Features of Apple Pencil 2nd generation. Powerful features in iPadOS 16. The ultimate iPad experience. The M2 chip is a new generation of Apple processors. The 8-core CPU boosts computing performance by 15% and the 10-core GPU boosts graphics performance by 35%. The advanced next-generation Neural Engine is up to 40% faster to speed up machine learning tasks. The M2 chip brings new features and amazing performance to iPad Pro. Create photorealistic 3D models, work in AR augmented reality and play games with home console-like graphics. And all this with a battery that lasts all day."
+    },
+    {
+        "id": "44037715755c11a9",
+        "category": "gadgets",
+        "options": ["ebook", "ritmix", "4.7inch", "ucos", "4gb"],
+        "title": "E-book Ritmix RBK-477",
+        "description": "The Ritmix RBK-477 e-book with a screen diagonal of 4.7\" is made in a black case. Its peculiarity is that it is equipped with an E-Ink Carta screen - safe and comfortable for the eyes. Visually, such a screen cannot be distinguished from the surface of the paper. Therefore, you can read from the reader for several hours without interruption : Eyes will not get tired.The surface will not glare even when reading in the sun.The screen resolution is 540x960. The Ritmix RBK-477 reader is powered by an 800 mAh battery. With economical consumption, a full charge of the battery will last for a long time. The design of the book provides a practical placement of function keys. This makes it easy to operate the device with one hand. The book works with numerous graphic and text formats, contains 4 GB of internal memory. There is also a microSD slot for memory cards up to 32 GB."
+    },
+    {
+        "id": "5abdf578e53ed763",
+        "category": "gadgets",
+        "options": ["ebook", "ritmix", "6inch", "ucos", "4gb"],
+        "title": "E-book Ritmix RBK-617",
+        "description": "The Ritmix RBK-617 e-reader with a 6-inch screen will accompany you everywhere, so you can pass the time with your favorite works. This is facilitated by its small size and light weight. The screen, made using E-ink Pearl technology, imitates high-quality white paper. Due to this, the eyes do not get tired, even if you read for a long time. The type and size of the font are set at the discretion of the user. Bookmark and auto-scroll options make reading even more comfortable. If you even store textbooks in electronic format, then appreciate that graphs, tables and images can also be reproduced. With 4 GB of built-in memory, expandable by up to 32 GB, you can store a huge library in one compact device. The time of continuous operation of the e-book Ritmix RBK-617 reaches 24 hours."
+    },
+    {
+        "id": "044ab6027431ed20",
+        "category": "gadgets",
+        "options": ["ebook", "ritmix", "6inch", "ucos", "4gb"],
+        "title": "E-book Ritmix RBK-678FL",
+        "description": "E-book Ritmix RBK-678FL, despite its compact body with a 6-inch screen, will be a reliable repository of a large library of works. To do this, she has 4 GB of internal memory and the ability to use a microSD drive. Due to the fact that the model's screen complies with the E-Ink Carta standard, the user's vision will not be endangered, because it corresponds to a regular paper book. The LED backlight also ensures comfortable reading in the dark. A flat miniature body is another advantage of the Ritmix RBK-678FL e-reader, because it can accompany the owner everywhere."
+    },
+    {
+        "id": "25a0f9ddb7a43332",
+        "category": "gadgets",
+        "options": ["ebook", "pocketbook", "6inch", "linux", "8gb"],
+        "title": "E-book PocketBook 606",
+        "description": "The PocketBook 606 e-book is presented in an elegant white case with a 6-inch screen. The E-lnk Carta display has a resolution of 1024x758 dpi and 16 gray levels. The device plays a wide range of graphic and text formats, as well as HTM and HTML, CHM and DjVu files. The instrument is equipped with 256 MB RAM and 8 GB internal memory. The PocketBook 606 device is supplemented with a slot for connecting microSD cards with a maximum capacity of 32 GB. There is also a microUSB interface compatible with the supplied charging cable. The battery is based on 800 mAh. The book is supplemented with a dictionary, calculator, notes and simple games. This model weighs only 145 g and measures 10.8x16.1x0.8 cm."
+    },
+    {
+        "id": "9add8b2d82f5ed20",
+        "category": "gadgets",
+        "options": ["ebook", "pocketbook", "6inch", "linux", "8gb"],
+        "title": "E-book PocketBook 617",
+        "description": "Electronic book PocketBook 617 is controlled by buttons, so it can be classified as a classic model. Its screen, made using E-Ink Carta technology, does not have a sensor. At the same time, the device is endowed with a whole set of flagship technologies - for example, it has access to Wi-Fi and supports the PocketBook Cloud book exchange service. At the heart of the functioning of the model is a dual-core processor and immediately 8 GB of internal memory. Due to this, pages are quickly turned, menus open and applications are launched. An additional advantage of the PocketBook 617 e-reader is the temperature-controlled backlight. It creates comfortable lighting for reading and relaxes the visual apparatus, which is especially important before bedtime. All the characteristics of the model indicate that it was created for lovers of the classics who need relevant and up-to-date technologies."
+    },
+    {
+        "id": "fff84c1bd56c2ff2",
+        "category": "gadgets",
+        "options": ["ebook", "onyxboox", "6inch", "android", "8gb"],
+        "title": "E-book ONYX BOOX Volta 3",
+        "description": "The ONYX BOOX Volta 3 e-book will always accompany you everywhere, allowing you to enjoy reading your favorite literature if you have a free minute. Thanks to the support of many text and graphic formats, you will not have a single difficulty when opening certain works. The ONYX BOOX Volta 3 e-reader with a 6-inch touch screen comes with an appropriate case that protects its body from scratches and scuffs. Depending on the lighting and time of day, you can activate the built-in MOON Light 2. Expanded to 8 GB of internal memory will come in handy for storing many works. The battery with a capacity of 3000 mAh will not be discharged for several hours, thereby ensuring the full use of the accessory."
+    },
+    {
+        "id": "6049d6d7ccd1ed20",
+        "category": "gadgets",
+        "options": ["ebook", "onyxboox", "6inch", "android", "8gb"],
+        "title": "E-book ONYX BOOX Faust 3",
+        "description": "The ONYX BOOX Faust 3 e-reader with a beautiful and comfortable case diversifies your leisure time. The 6” backlit touchscreen ensures easy reading in any environment. You yourself adjust the color temperature, font size and gestures for control. Android 4.4 OS with 512 MB of RAM will allow you to install your favorite readers with which you are accustomed to working. The ONYX BOOX Faust 3 recognizes most text and popular image formats. Using Bluetooth and Wi-Fi, you can download books directly to the device (8 GB of internal memory) or use microSD, microSDHC cards for this. To charge the battery at 3000 mAh, a standard USB Type-C connector is used (cable included)."
+    },
+    {
+        "id": "d20ebaa7272eed20",
+        "category": "computers",
+        "options": ["notebook", "asus", "15.6inch", "1.1ghz", "1000gb"],
+        "title": "Notebook ASUS Laptop 15 D543MA-DM1368",
+        "description": "This laptop is designed for those who want a reliable and productive computing device with the most requested functionality. This model fully satisfies these requirements. Reliable storage gives you long-term storage options for the virtual information you need. The device is equipped with a webcam and microphone, thanks to which you can organize video conferences with business partners and work colleagues."
+    },
+    {
+        "id": "17ef7ded7da3ed20",
+        "category": "computers",
+        "options": ["notebook", "asus", "15.6inch", "1.1ghz", "1000gb"],
+        "title": "Notebook ASUS Laptop 15 D543MA-DM1369",
+        "description": "Stylish mobile computer in a silver color that offers everything you need to solve everyday tasks. Sufficiently high performance when performing computer tasks is provided by the AMD Ryzen 3 processor and 8 GB of RAM. This model also includes an SSD drive. The laptop is equipped with a 15.6 inch FullHD IPS screen with anti-reflective surface, which displays a realistic image. ASUS Laptop 15 received a webcam, a speaker system with a speaker and a microphone, and a sought-after set of interfaces. Other features of the model include a thin Nanoedge screen bezel and a long battery life."
+    },
+    {
+        "id": "e8029a1d0f71ed20",
+        "category": "computers",
+        "options": ["notebook", "asus", "14inch", "1.1ghz", "128gb"],
+        "title": "Notebook ASUS Laptop E410KA-EK125W",
+        "description": "Life is a search for harmony, and the ASUS Laptop E410 is a very harmonious solution with a balanced configuration. Lightweight, compact and stylish, it will perfectly fit into your dynamic life. Its capabilities, among which the innovative NumberPad touchpad stands out, are more than enough for everyday tasks and office applications."
+    },
+    {
+        "id": "5e6bce605e1aed20",
+        "category": "computers",
+        "options": ["notebook", "asus", "15.6inch", "1.1ghz", "128gb"],
+        "title": "Notebook ASUS Laptop 15 F515KA-BR110W",
+        "description": "For the high-performance ASUS Laptop 15 F515KA-BR110W, there is simply no task impossible, whether it's navigating through multiple applications or quickly completing user-defined tasks, all thanks to the fact that its hardware is represented by a 2-core Intel Celeron N4500 processor and 4 GB of RAM. Impressive graphics quality and fast frame changes even when broadcasting the most dynamic scenes are guaranteed by the Intel UHD Graphics graphics card. Notebook ASUS Laptop 15 F515KA-BR110W will please you with broadcasting realistic content, because the resolution of the 15.6-inch screen reaches 1366x768 pixels. The 1 MP webcam and built-in microphone will become indispensable assistants when making video calls and participating in various meetings. External connectors located on the case will help you quickly connect peripheral devices and transfer files from drives."
+    },
+    {
+        "id": "4366e689e6ec5da8",
+        "category": "computers",
+        "options": ["notebook", "acer", "15.6inch", "1.1ghz", "256gb"],
+        "title": "Notebook Acer Extensa 15 EX215-31-C6FB",
+        "description": "The 15.6-inch display with narrow bezels creates a higher screen-to-body ratio. In addition, ComfyView technology reduces glare by limiting reflected light for a more comfortable viewing experience. Working from home is more convenient than ever. The clever placement of the Wi-Fi 5 (802.11ac) antenna with MU-MIMO technology provides a reliable wireless signal. An optimized digital webcam, microphone and two built-in stereo speakers deliver superior sound and picture quality."
+    },
+    {
+        "id": "77c4ff35649eed20",
+        "category": "computers",
+        "options": ["notebook", "acer", "15.6inch", "1.1ghz", "128gb"],
+        "title": "Notebook Acer Aspire 3 A315-34-C9WH",
+        "description": "This laptop is designed for those who want to get a good productive computer device with the most requested functionality. This model fully satisfies these requirements. Reliable storage gives you long-term storage options for the virtual information you need. The device is equipped with a webcam and microphone, thanks to which you can organize video conferences with business partners and work colleagues."
+    },
+    {
+        "id": "e113defffd90ed20",
+        "category": "computers",
+        "options": ["notebook", "acer", "15.6inch", "2.3ghz", "128gb"],
+        "title": "Notebook Acer Aspire 1 A115-22-R2DZ",
+        "description": "Notebook Acer Aspire 1 A115-22-R2DZ is focused on working with office programs. The model is equipped with a 2-core processor AMD Athlon Silver 3050U and 4 GB of RAM. This configuration is suitable for comfortable Internet use, as well as for working with documents and simple graphics. Integrated AMD Radeon Graphics supports entry-level video games. Data is stored on a 128 GB eMMC drive that performs better than typical hard drives. The laptop quickly opens and copies files."
+    },
+    {
+        "id": "3174b466242ced20",
+        "category": "computers",
+        "options": ["monoblock", "msipro", "27inch", "3.3ghz", "512gb", "ram8gb"],
+        "title": "Monoblock MSI PRO AP272 12M-094XRU",
+        "description": "With powerful processing power, an ergonomic 27” screen and a built-in FHD camera, the PRO AP272 All-in-One will help you work more productively and comfortably. The slim body of the device, available in two colors, will perfectly fit into the environment of any home or office."
+    },
+    {
+        "id": "2ae0943e242ced20",
+        "category": "computers",
+        "options": ["monoblock", "msipro", "23.8inch", "4.1ghz", "256gb", "ram8gb"],
+        "title": "Monoblock MSI PRO AP241 11M-642XRU",
+        "description": "The MSI Pro AP241 is equipped with an IPS Grade Panel that not only instantly optimizes screen colors and brightness so you can enjoy every scene at its best, but also delivers stable picture quality with an extremely wide viewing angle both vertically and horizontally. . The MSI Pro AP241 All-in-One is equipped with an Intel processor that uses a power-efficient microarchitecture, advanced manufacturing processes and chip optimization to deliver higher performance than previous generation processors."
+    },
+    {
+        "id": "24d62248242ced20",
+        "category": "computers",
+        "options": ["monoblock", "msipro", "27inch", "3.3ghz", "256gb", "ram8gb"],
+        "title": "Monoblock MSI PRO AP272 12M-202RU",
+        "description": "With powerful processing power, an ergonomic 27” screen and a built-in FHD camera, the PRO AP272 All-in-One will help you work more productively and comfortably. The slim body of the device, available in two colors, will perfectly fit into the environment of any home or office."
+    },
+    {
+        "id": "6234eef854823333",
+        "category": "computers",
+        "options": ["monoblock", "acer", "21.5inch", "2.3ghz", "1000gb", "ram4gb"],
+        "title": "Monoblock Acer Aspire C22-420",
+        "description": "Monoblock Acer Aspire C22-420 [DQ.BG3ER.002] stands out for its exquisite design and performance characteristics necessary to run programs and work with various data. The 21.5-inch IPS FullHD screen displays a crisp picture with bright and rich colors. The basis of the hardware platform is the Athlon Silver 3050U processor, which works in conjunction with 4 GB of RAM, an integrated Radeon RX Vega 2 adapter and a 1 TB HDD drive."
+    },
+    {
+        "id": "9639afe86975ed20",
+        "category": "computers",
+        "options": ["monoblock", "acer", "27inch", "2.4ghz", "512gb", "ram16gb"],
+        "title": "Monoblock Acer Aspire C27-1655",
+        "description": "If you're looking for uncompromising performance, choose the Aspire C27 with Intel processors, graphics, and a variety of ultra-fast connectivity options. This exquisitely crafted slim all-in-one provides a compact and powerful home workstation."
+    },
+    {
+        "id": "6234eefe54823333",
+        "category": "computers",
+        "options": ["monoblock", "acer", "23.8inch", "2.6ghz", "512gb", "ram4gb"],
+        "title": "Monoblock Acer Aspire C24-420",
+        "description": "The 23.8\" Acer Aspire C24-420 [DQ.BFXER.005] all-in-one PC is an excellent choice for home or office due to its features. The computer is based on a 2-core AMD Ryzen 3 chip, which is complemented by integrated graphics and 4 GB of fast RAM. Thanks to This ensures comfortable operation in various environments.In addition, the model is equipped with a 256GB SSD disk, which can ensure fast system and application booting, as well as convenient and reliable file storage. The Acer Aspire C24-420 23.8\" screen occupies most of the front panel. It is made using IPS technology. Thanks to this, as well as Full HD resolution, a high-quality image with high detail is provided. The screen has a matte finish to protect against glare and make it more comfortable to use."
+    },
+    {
+        "id": "06c184d6056ec823",
+        "category": "computers",
+        "options": ["monoblock", "dell", "21.5inch", "3ghz", "256gb", "ram8gb"],
+        "title": "Dell OptiPlex 3280 All-in-One",
+        "description": "The Dell OptiPlex 3280 All-in-One delivers the sleek style and performance you need to be productive with a variety of applications at home or in the office. The platform of this model is represented by an Intel Core i3 processor, 8 GB of RAM and a 256 GB SSD drive. The all-in-one computer has a 21.5-inch VA screen with wide viewing angles and FullHD resolution. 2 MP webcam and microphone provide video conferencing. One of the advantages of Dell OptiPlex 3280 is a wide range of interfaces. The kit comes with a keyboard and mouse connected to the USB port."
+    },
+    {
+        "id": "df0b3c108a712ff4",
+        "category": "computers",
+        "options": ["monoblock", "lenovo", "23.8inch", "1.2ghz", "256gb", "ram8gb"],
+        "title": "Monoblock Lenovo V30a-24IIL",
+        "description": "Equipped with a 10th Gen Intel Core processor, massive storage and DDR4 RAM, the Lenovo V30a All-in-One is a powerful solution to meet your business needs. Its 23.8-inch display is ideal for viewing spreadsheets and long documents. You can also minimize power consumption with Modern Standby mode, which allows you to monitor email and use VoIP communications even when your computer is inactive."
+    }
+]

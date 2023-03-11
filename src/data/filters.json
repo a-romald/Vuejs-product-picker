@@ -1,0 +1,554 @@
+[
+    {
+        "title": "Type of product",
+        "group": "type",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "type-any"
+            },
+            {
+                "name": "Cell phone",
+                "value": "cellphone"
+            },
+            {
+                "name": "Smartphone",
+                "value": "smartphone"
+            },
+            {
+                "name": "Tablet",
+                "value": "tablet"
+            },
+            {
+                "name": "Ebook",
+                "value": "ebook"
+            },            
+            {
+                "name": "Notebook",
+                "value": "notebook"
+            },
+            {
+                "name": "Monoblock",
+                "value": "monoblock"
+            }
+        ]
+    },
+    {
+        "title": "Cell phone producer",
+        "group": "cellproducer",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "cellproducer-any"
+            },
+            {
+                "name": "Finepower",
+                "value": "finepower"
+            },
+            {
+                "name": "BQ",
+                "value": "bq"
+            },
+            {
+                "name": "Maxvi",
+                "value": "maxvi"
+            },
+            {
+                "name": "Philips",
+                "value": "philips"
+            },
+            {
+                "name": "Nokia",
+                "value": "nokia"
+            },
+            {
+                "name": "Panasonic",
+                "value": "panasonic"
+            }
+        ]
+    },
+    {
+        "title": "Sim cards number",
+        "group": "sim",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "sim-any"
+            },
+            {
+                "name": "1 SIM",
+                "value": "1sim"
+            },
+            {
+                "name": "2 SIM",
+                "value": "2sim"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "celldisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "celldisplay-any"
+            },
+            {
+                "name": "1.7\"",
+                "value": "1.7inch"
+            },
+            {
+                "name": "1.8\"",
+                "value": "1.8inch"
+            },
+            {
+                "name": "2.4\"",
+                "value": "2.4inch"
+            },
+            {
+                "name": "2.8\"",
+                "value": "2.8inch"
+            }
+        ]
+    },
+    {
+        "title": "Smartphone producer",
+        "group": "smartphoneproducer",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "smartphoneproducer-any"
+            },
+            {
+                "name": "Apple",
+                "value": "apple"
+            },
+            {
+                "name": "Samsung",
+                "value": "samsung"
+            },
+            {
+                "name": "Xiaomi",
+                "value": "xiaomi"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "smartphonedisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "smartphonedisplay-any"
+            },
+            {
+                "name": "6.1\"",
+                "value": "6.1inch"
+            },
+            {
+                "name": "6.5\"",
+                "value": "6.5inch"
+            },
+            {
+                "name": "6.7\"",
+                "value": "6.7inch"
+            }
+        ]
+    },
+    {
+        "title": "Operating system",
+        "group": "os",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "os-any"
+            },
+            {
+                "name": "Android",
+                "value": "android"
+            },
+            {
+                "name": "iOS",
+                "value": "ios"
+            }
+        ]
+    },
+    {
+        "title": "Number of cores",
+        "group": "cores",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "cores-any"
+            },
+            {
+                "name": "6 cores",
+                "value": "6cores"
+            },
+            {
+                "name": "8 cores",
+                "value": "8cores"
+            }
+        ]
+    },
+    {
+        "title": "Tablet producer",
+        "group": "tabletproducer",
+        "options": [
+            {
+                "name": "Не выбрана",
+                "value": "tabletproducer-any"
+            },
+            {
+                "name": "Apple",
+                "value": "apple"
+            },
+            {
+                "name": "Samsung",
+                "value": "samsung"
+            },
+            {
+                "name": "Huawei",
+                "value": "huawei"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "tabletdisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "tabletdisplay-any"
+            },
+            {
+                "name": "11\"",
+                "value": "11inch"
+            },
+            {
+                "name": "10.9\"",
+                "value": "10.9inch"
+            },
+            {
+                "name": "10.5\"",
+                "value": "10.5inch"
+            },
+            {
+                "name": "10.4\"",
+                "value": "10.4inch"
+            },
+            {
+                "name": "10.1\"",
+                "value": "10.1inch"
+            }
+        ]
+    },
+    {
+        "title": "Operating system",
+        "group": "tabletos",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "tabletos-any"
+            },
+            {
+                "name": "Android",
+                "value": "androidos"
+            },
+            {
+                "name": "HarmonyOS",
+                "value": "harmonyos"
+            },
+            {
+                "name": "iPadOS",
+                "value": "ipados"
+            }
+        ]
+    },
+    {
+        "title": "Ebook producer",
+        "group": "ebookproducer",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "ebookproducer-any"
+            },
+            {
+                "name": "Ritmix",
+                "value": "ritmix"
+            },
+            {
+                "name": "PocketBook",
+                "value": "pocketbook"
+            },
+            {
+                "name": "ONYX BOOX",
+                "value": "onyxboox"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "ebookdisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "ebookdisplay-any"
+            },
+            {
+                "name": "4.7\"",
+                "value": "4.7inch"
+            },
+            {
+                "name": "6\"",
+                "value": "6inch"
+            }            
+        ]
+    },
+    {
+        "title": "Operating system",
+        "group": "ebookos",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "ebookos-any"
+            },
+            {
+                "name": "Android",
+                "value": "android"
+            },
+            {
+                "name": "uCOS",
+                "value": "ucos"
+            },
+            {
+                "name": "Linux",
+                "value": "linux"
+            }
+        ]
+    },
+    {
+        "title": "Built-in memory",
+        "group": "builtinmemory",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "builtinmemory-any"
+            },
+            {
+                "name": "4 GB",
+                "value": "4gb"
+            },
+            {
+                "name": "8 GB",
+                "value": "8gb"
+            }
+        ]
+    },
+    {
+        "title": "Notebook producer",
+        "group": "notebookproducer",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "notebookproducer-any"
+            },
+            {
+                "name": "Asus",
+                "value": "asus"
+            },
+            {
+                "name": "Acer",
+                "value": "acer"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "notebookdisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "notebookdisplay-any"
+            },
+            {
+                "name": "14\"",
+                "value": "14inch"
+            },
+            {
+                "name": "15.6\"",
+                "value": "15.6inch"
+            }
+        ]
+    },
+    {
+        "title": "CPU frequency",
+        "group": "cpufrequency",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "cpufrequency-any"
+            },
+            {
+                "name": "1.1 GHz",
+                "value": "1.1ghz"
+            },
+            {
+                "name": "2.3 GHz",
+                "value": "2.3ghz"
+            }
+        ]
+    },
+    {
+        "title": "Storage capacity",
+        "group": "storagecapacity",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "storagecapacity-any"
+            },
+            {
+                "name": "128 GB",
+                "value": "128gb"
+            },
+            {
+                "name": "256 GB",
+                "value": "256gb"
+            },
+            {
+                "name": "1000 GB",
+                "value": "1000gb"
+            }
+        ]
+    },
+    {
+        "title": "Monoblock producer",
+        "group": "monoblockproducer",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "monoblockproducer-any"
+            },            
+            {
+                "name": "Acer",
+                "value": "acer"
+            },
+            {
+                "name": "Dell",
+                "value": "dell"
+            },
+            {
+                "name": "Lenovo",
+                "value": "lenovo"
+            },
+            {
+                "name": "MSI PRO",
+                "value": "msipro"
+            }
+        ]
+    },
+    {
+        "title": "Display",
+        "group": "moboblockdisplay",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "moboblockdisplay-any"
+            },
+            {
+                "name": "21.5\"",
+                "value": "21.5inch"
+            },
+            {
+                "name": "23.8\"",
+                "value": "23.8inch"
+            },
+            {
+                "name": "27\"",
+                "value": "27inch"
+            }
+        ]
+    },
+    {
+        "title": "CPU frequency",
+        "group": "monocpufrequency",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "monocpufrequency-any"
+            },
+            {
+                "name": "1.2 GHz",
+                "value": "1.2ghz"
+            },
+            {
+                "name": "2.3 GHz",
+                "value": "2.3ghz"
+            },
+            {
+                "name": "2.4 GHz",
+                "value": "2.4ghz"
+            },
+            {
+                "name": "2.6 GHz",
+                "value": "2.6ghz"
+            },
+            {
+                "name": "3 GHz",
+                "value": "3ghz"
+            },
+            {
+                "name": "3.3 GHz",
+                "value": "3.3ghz"
+            },
+            {
+                "name": "4.1 GHz",
+                "value": "4.1ghz"
+            }
+        ]
+    },
+    {
+        "title": "Storage capacity",
+        "group": "monostoragecapacity",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "monostoragecapacity-any"
+            },            
+            {
+                "name": "256 GB",
+                "value": "256gb"
+            },
+            {
+                "name": "512 GB",
+                "value": "512gb"
+            },
+            {
+                "name": "1000 GB",
+                "value": "1000gb"
+            }
+        ]
+    },
+    {
+        "title": "RAM",
+        "group": "monoram",
+        "options": [
+            {
+                "name": "Not chosen",
+                "value": "monoram-any"
+            },
+            {
+                "name": "4 GB",
+                "value": "ram4gb"
+            },
+            {
+                "name": "8 GB",
+                "value": "ram8gb"
+            },            
+            {
+                "name": "16 GB",
+                "value": "ram16gb"
+            }
+        ]
+    }
+]

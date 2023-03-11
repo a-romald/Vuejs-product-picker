@@ -1,0 +1,38 @@
+[
+    {
+        "conditions": {
+            "type": "cellphone"
+        },
+        "fieldSets": [ "cellproducer", "celldisplay", "sim" ]
+    },
+    {
+        "conditions": {
+            "type": "smartphone"
+        },
+        "fieldSets": [ "smartphoneproducer", "smartphonedisplay", "os", "cores", "sim" ]
+    },
+    {
+        "conditions": {
+            "type": "tablet"
+        },
+        "fieldSets": [  "tabletproducer", "tabletdisplay", "tabletos" ]
+    },
+    {
+        "conditions": {
+            "type": "ebook"
+        },
+        "fieldSets": [ "ebookproducer", "ebookdisplay", "builtinmemory", "ebookos" ]
+    },
+    {
+        "conditions": {
+            "type": "notebook"
+        },
+        "fieldSets": [ "notebookproducer", "notebookdisplay", "cpufrequency", "storagecapacity" ]
+    },
+    {
+        "conditions": {
+            "type": "monoblock"
+        },
+        "fieldSets": [ "monoblockproducer", "moboblockdisplay", "monocpufrequency", "monostoragecapacity", "monoram" ]
+    }
+]
